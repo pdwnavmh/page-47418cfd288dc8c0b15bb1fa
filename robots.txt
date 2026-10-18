@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-e5e205004e.huaxiazhubao.cn/sitemap.xml
